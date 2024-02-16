@@ -2,8 +2,12 @@
 
 Hi! **FB Ad Library Scraper Extension** is used to extract successful ad campaigns from Facebook by scrolling down. The extension has parameters you can control and adjust to your needs. When the extension finishes the scrolling depending on the period provided in the params, it will generate a csv file for you that you can open with any csv tool and view interesting data.
 
-![image](https://github.com/mblackroot/fb-adlibrary-scraper-extension/assets/150747890/b7102a2a-b6b3-4d92-99c1-364262c4050d)
 
+<div align="left">
+      <a href="https://youtu.be/2eiSgAJdfEg">
+         <img src="https://img.youtube.com/vi/2eiSgAJdfEg/0.jpg" style="width:50%; height:50%">
+      </a>
+</div>
 
 # Installation
 
