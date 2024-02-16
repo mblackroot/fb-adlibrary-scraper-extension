@@ -15,7 +15,7 @@ Hi! **FB Ad Library Scraper Extension** is used to extract successful ad campaig
 
 
 # Params
-totalDuration // How much total time the extension will run for - default: 10 minutes
-scrapeInterval // How much time to wait to resume scrolling - default: 1 minute
-scrollSpeed // Adjust the scroll speed as needed - default: 3
-numberOfAdsThreshold // This represents the minimum number of ads a campaign should have to be extracted - default: 2
+* totalDuration // How much total time the extension will run for - default: 10 minutes
+* scrapeInterval // How much time to wait to resume scrolling - default: 1 minute
+* scrollSpeed // Adjust the scroll speed as needed - default: 3
+* numberOfAdsThreshold // This represents the minimum number of ads a campaign should have to be extracted - default: 2
