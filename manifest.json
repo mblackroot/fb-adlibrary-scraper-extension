@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Facebook Ads Scraper",
+  "version": "1.0",
+  "description": "Scrapes data from Facebook ads library pages.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/ads/library/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
