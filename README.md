@@ -10,7 +10,7 @@ Hi! **FB Ad Library Scraper Extension** is used to extract successful ad campaig
 </div>
 
 # Installation
-
+0. Make sure you don't have any extensions that change the design of Facebook ad library, this will have effect on my extension, instead use a new profile.
 1. Download or clone the project.
 2. Load it unpacked to Microsoft Edge or Google Chrome.
 3. Open Facebook Ad Library.
